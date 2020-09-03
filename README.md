@@ -1,2 +1,2 @@
-# Reposit-rioportugol
+# Repositorioportugol
 Atividade generation - Portugol Desktop
