@@ -1,2 +1,2 @@
 # Repositorioportugol
-Atividade generation - Portugol Desktop
+Atividades realizadas no curso da generation. Nesta pasta veremos todos os meus exercícios feitos na plataforma portugol. Ressalto que ainda estão em forma de aprendizagem!
